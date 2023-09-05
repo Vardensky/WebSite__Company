@@ -292,7 +292,6 @@ h3 {
 .footer__logo {
   color: #fff;
   /* Заголовок H2 */
-  font-family: Inter;
   font-size: 32px;
   font-style: normal;
   font-weight: 500;
@@ -308,4 +307,23 @@ h3 {
   line-height: 150%; /* 24px */
   padding-top: 48px;
   padding-bottom: 30px;
+}
+
+.right-items-text {
+  color: #fff;
+  /* Заголовок H2 */
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 130%; /* 41.6px */
+  width: 501px;
+}
+
+.footer__input {
+  background: #1D1D1F;
+  border: 0.5px solid #1D1D1F;
+  border-bottom: 0.5px solid #838383;
+  outline: none;
+  box-sizing: border-box;
+  width: 570px;
 }/*# sourceMappingURL=style.css.map */

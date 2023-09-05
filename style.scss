@@ -296,7 +296,6 @@ h3 {
 .footer__logo {
 	color: $white;
 	/* Заголовок H2 */
-	font-family: Inter;
 	font-size: 32px;
 	font-style: normal;
 	font-weight: 500;
@@ -313,4 +312,24 @@ h3 {
 	padding-top: 48px;
 	padding-bottom: 30px;
 }
+
+.right-items-text {
+	color: $white;
+	/* Заголовок H2 */
+	font-size: 32px;
+	font-style: normal;
+	font-weight: 500;
+	line-height: 130%; /* 41.6px */
+	width: 501px;
+}
+
+.footer__input {
+	background: $dark_grey;
+	border: 0.5px solid $dark_grey;
+	border-bottom: 0.5px solid #838383;
+  outline: none;
+  box-sizing: border-box;
+	width: 570px;
+}
+
 
