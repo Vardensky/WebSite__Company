@@ -287,6 +287,8 @@ h3 {
 
 .footer__items {
   padding-top: 90px;
+  display: flex;
+  justify-content: space-between;
 }
 
 .footer__logo {
